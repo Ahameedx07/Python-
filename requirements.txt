@@ -1,0 +1,5 @@
+ecdsa>=0.18.0
+pycryptodome>=3.15.0
+# Optional: API and SSH checks
+librouteros>=3.3.0
+paramiko>=2.11.0
